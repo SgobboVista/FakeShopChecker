@@ -32,7 +32,14 @@
     "firma": "Blizzard Entertainment, Inc.",
     "adresse": "1 Blizzard Way, Irvine, CA 92618, USA"
   },
-  "bonprix.de": { "firma": "Bonprix Handelsgesellschaft mbH", "adresse": "Haldesdorfer Straße 61, 22179 Hamburg, Deutschland", "ustid": "-", // (nicht öffentlich bestätigt) "telefon": "040 6462-0", "email": "service@bonprix.net", "servicezeiten": { "kundenservice": "Mo–Sa 7:00–23:00, So 8:00–23:00", "bestellservice": "24/7"
+  "bonprix.de": {
+    "firma": "Bonprix Handelsgesellschaft mbH",
+    "adresse": "Haldesdorfer Straße 61, 22179 Hamburg, Deutschland",
+    "ustid": "-",
+    "telefon": "040 6462-0",
+    "email": "service@bonprix.net",
+    "kundenservice": "Mo–Sa 7:00–23:00, So 8:00–23:00",
+    "bestellservice": "24/7"
   },
   "butlers.com": {
     "firma": "Butlers GmbH & Co. KG",
