@@ -1,36 +1,75 @@
 {
   "aboutyou.de": {
     "firma": "ABOUT YOU SE & Co. KG",
-    "adresse": "Domstraße 10, 20095 Hamburg, Deutschland"
+    "adresse": "Domstraße 10, 20095 Hamburg, Deutschland",
+    "ustid": "DE339819462",
+    "telefon": "0800 30 15 085",
+    "email": "kundenservice@aboutyou.de",
+    "kundenservice": "Keine Angaben"
   },
+  "activision.com": {
+    "firma": "Activision Blizzard Deutschland GmbH",
+    "adresse": "Fraunhoferstr. 7, 85737 Ismaning, Reg.-Bez. Oberbayern",
+    "ustid": "Keine Angaben",
+    "telefon": "089 999 81 70",
+    "email": "techsupport@vgames.net",
+    "kundenservice": "Keine Angaben",
+    "bestellservice": "Keine Angaben",
+  },
+
   "alternate.de": {
     "firma": "ALTERNATE GmbH",
-    "adresse": "Philipp-Reis-Straße 2-3, 35440 Linden, Deutschland"
-    
+    "adresse": "Philipp-Reis-Straße 2-3, 35440 Linden, Deutschland",
+    "ustid": "DE112595008",
+    "telefon": "06403 90 50 40",
+    "email": "info@alternate.de",
+    "kundenservice": "Mo. - Fr., 09:00 - 17:00 Uhr"
+
   },
   "amazon.de": {
     "firma": "Amazon EU S.à r.l.",
-    "adresse": "38 avenue John F. Kennedy, L-1855 Luxemburg"
+    "adresse": "38 avenue John F. Kennedy, L-1855 Luxemburg",
+    "ustid": "LU20260743",
+    "telefon": "0800 36 38 469",
+    "email": "impressum@amazon.de",
+    "kundenservice": "24/7",
+    "bestellservice": "24/7"
   },
   "anker.com": {
-    "firma": "Anker Innovations Limited",
-    "adresse": "Room 1318-19, Hollywood Plaza, 610 Nathan Road, Mongkok, Kowloon, Hongkong"
+    "firma": "Anker Innovations Deutschland GmbH",
+    "adresse": "Georg-Muche-Strasse 3 80807 München Deutschland",
+    "ustid": "DE295307777",
+    "telefon": "+069 9579 7960",
+    "email": "support@anker.com",
+    "kundenservice": "Unbekannt",
+    "bestellservice": "Keine Angaben"
   },
-  "apple.com/de": {
+  "apple.com": {
     "firma": "Apple Distribution International Ltd.",
-    "adresse": "Hollyhill Industrial Estate, Cork, Irland"
-  },
-  "appstore.com": {
-    "firma": "Apple Inc.",
-    "adresse": "One Apple Park Way, Cupertino, CA 95014, USA"
+    "adresse": "Hollyhill Industrial Estate, Cork, Irland",
+    "ustid": "IE9700053D",
+    "telefon": "0800 2000 136",
+    "email": "contactus.de@euro.apple.com",
+    "kundenservice": "Montag bis Freitag von 9 bis 20 Uhr und Samstag von 9 bis 18 Uhr",
+    "bestellservice": "0800 2000 136"
   },
   "babywalz.de": {
     "firma": "baby-walz GmbH",
-    "adresse": "Robert-Bosch-Straße 16, 88353 Kißlegg, Deutschland"
+    "adresse": "Steinstraße 28 88339 Bad Waldsee, Deutschland",
+    "ustid": "DE270182745",
+    "telefon": "07524 415 9506",
+    "email": "info@baby-walz.de",
+    "kundenservice": "7 - 23 Uhr",
+    "bestellservice": ""
   },
   "blizzard.com": {
-    "firma": "Blizzard Entertainment, Inc.",
-    "adresse": "1 Blizzard Way, Irvine, CA 92618, USA"
+    "firma": "Activision Blizzard Deutschland GmbH",
+    "adresse": "Fraunhoferstr. 7, 85737 Ismaning, Reg.-Bez. Oberbayern",
+    "ustid": "Keine Angaben",
+    "telefon": "089 999 81 70",
+    "email": "techsupport@vgames.net",
+    "kundenservice": "Keine Angaben",
+    "bestellservice": "Keine Angaben"
   },
   "bonprix.de": {
     "firma": "Bonprix Handelsgesellschaft mbH",
@@ -43,226 +82,103 @@
   },
   "butlers.com": {
     "firma": "Butlers GmbH & Co. KG",
-    "adresse": "Hohenzollernring 16-18, 50672 Köln, Deutschland"
+    "adresse": "Hohenzollernring 16-18, 50672 Köln, Deutschland",
+    "ustid": "DE200049899",
+    "telefon": "0221 272 64 80",
+    "email": "impressum@butlers.com",
+    "kundenservice": "Mo-Fr 9-18 Uhr",
+    "bestellservice": "24/7"
   },
-  "c-and-a.com": {
-    "firma": "C&A Mode GmbH & Co. KG",
-    "adresse": "Wanheimer Straße 70, 40468 Düsseldorf, Deutschland"
-  },
-  "conrad.de": {
-    "firma": "Conrad Electronic SE",
-    "adresse": "Klaus-Conrad-Straße 1, 92240 Hirschau, Deutschland"
-  },
-  "cyberport.de": {
-    "firma": "Cyberport GmbH",
-    "adresse": "Am Brauhaus 5, 01099 Dresden, Deutschland"
-  },
-  "dehner.de": {
-    "firma": "Dehner Gartencenter GmbH & Co. KG",
-    "adresse": "Donauwörther Straße 3-5, 86641 Rain am Lech, Deutschland"
-  },
-  "dm.de": {
-    "firma": "dm-drogerie markt GmbH + Co. KG",
-    "adresse": "Carl-Metz-Straße 1, 76185 Karlsruhe, Deutschland"
-  },
-  "ebay.de": {
-    "firma": "eBay GmbH",
-    "adresse": "Albert-Einstein-Ring 2-6, 14532 Kleinmachnow, Deutschland"
-  },
-  "edeka.de": {
-    "firma": "EDEKA Zentrale AG & Co. KG",
-    "adresse": "New-York-Ring 6, 22297 Hamburg, Deutschland"
-  },
-  "epicgames.com": {
-    "firma": "Epic Games, Inc.",
-    "adresse": "620 Crossroads Blvd, Cary, NC 27518, USA"
-  },
-  "esprit.de": {
-    "firma": "Esprit Europe GmbH",
-    "adresse": "Esprit-Allee 1, 40882 Ratingen, Deutschland"
-  },
-  "gog.com": {
-    "firma": "CD Projekt S.A.",
-    "adresse": "ul. Jagiellońska 74, 03-301 Warszawa, Polen"
-  },
-  "grover.com": {
-    "firma": "Grover Deutschland GmbH",
-    "adresse": "Potsdamer Str. 125, 10783 Berlin, Deutschland"
-  },
-  "h&m.com": {
-    "firma": "H&M Hennes & Mauritz AB",
-    "adresse": "Mäster Samuelsgatan 46, 106 38 Stockholm, Schweden"
-  },
-  "home24.de": {
-    "firma": "home24 SE",
-    "adresse": "Greifswalder Straße 212-213, 10405 Berlin, Deutschland"
-  },
-  "humblebundle.com": {
-    "firma": "Humble Bundle, Inc.",
-    "adresse": "163 Freelon Street, San Francisco, CA 94107, USA"
-  },
-  "ikea.com": {
-    "firma": "IKEA Deutschland GmbH & Co. KG",
-    "adresse": "Am Wandersmann 2-4, 65719 Hofheim-Wallau, Deutschland"
-  },
-  "itch.io": {
-    "firma": "Itch Corp.",
-    "adresse": "San Francisco, CA, USA"
-  },
-  "jako-o.com": {
-    "firma": "JAKO-O GmbH & Co. KG",
-    "adresse": "August-Grosch-Straße 28-38, 96476 Bad Rodach, Deutschland"
-  },
-  "kaufland.de": {
-    "firma": "Kaufland Online GmbH",
-    "adresse": "Stiftsbergstraße 1, 74172 Neckarsulm, Deutschland"
-  },
-  "king.com": {
-    "firma": "King Digital Entertainment PLC",
-    "adresse": "25 Argyll Street, London W1F 7TU, Vereinigtes Königreich"
-  },
-  "lego.com/de-de": {
-    "firma": "LEGO GmbH",
-    "adresse": "Technologiewerk 1, 90766 Fürth, Deutschland"
-  },
-  "lidl.de": {
-    "firma": "Lidl Stiftung & Co. KG",
-    "adresse": "Stiftsbergstraße 1, 74167 Neckarsulm, Deutschland"
-  },
-  "logitech.com": {
-    "firma": "Logitech Europe S.A.",
-    "adresse": "EPFL - Quartier de l’Innovation, CH-1015 Lausanne, Schweiz"
-  },
-  "mango.com": {
-    "firma": "Mango Fashion Retail S.A.",
-    "adresse": "Carrer Mercaders 9-11, 08184 Palau-solità i Plegamans, Spanien"
-  },
-  "mediamarkt.de": {
-    "firma": "Media-Saturn-Holding GmbH",
-    "adresse": "Wankelstraße 5, 85046 Ingolstadt, Deutschland"
-  },
-  "microsoft.com/de-de": {
-    "firma": "Microsoft Corporation",
-    "adresse": "One Microsoft Way, Redmond, WA 98052, USA"
-  },
-  "mytoys.de": {
-    "firma": "myToys.de GmbH",
-    "adresse": "Potsdamer Straße 192, 10783 Berlin, Deutschland"
-  },
-  "netflix.com": {
-    "firma": "Netflix International B.V.",
-    "adresse": "Karperstraat 8-10, 1075 KZ Amsterdam, Niederlande"
-  },
-  "nintendo.de": {
-    "firma": "Nintendo of Europe GmbH",
-    "adresse": "Goldsteinstraße 235, 60528 Frankfurt am Main, Deutschland"
-  },
-  "notebooksbilliger.de": {
-    "firma": "notebooksbilliger.de AG",
-    "adresse": "Hanns-Klemm-Straße 3, 30890 Barsinghausen, Deutschland"
-  },
-  "one.de": {
-    "firma": "1&1 IONOS SE",
-    "adresse": "Elgendorfer Str. 57, 56410 Montabaur, Deutschland"
-  },
-  "origin.com": {
-    "firma": "Electronic Arts Inc.",
-    "adresse": "209 Redwood Shores Parkway, Redwood City, CA 94065, USA"
-  },
-  "orsay.com": {
-    "firma": "Orsay GmbH",
-    "adresse": "Im Orsay Haus, 77652 Offenburg, Deutschland"
-  },
-  "otto.de": {
-    "firma": "Otto GmbH & Co KG",
-    "adresse": "Werner-Otto-Straße 1-7, 22179 Hamburg, Deutschland"
-  },
-  "peek-cloppenburg.de": {
-    "firma": "Peek & Cloppenburg KG",
-    "adresse": "Berliner Allee 2, 40212 Düsseldorf, Deutschland"
-  },
-  "pimkie.de": {
-    "firma": "Pimkie Deutschland GmbH",
-    "adresse": "Münchener Straße 33, 60329 Frankfurt am Main, Deutschland"
-  },
-  "play.google.com": {
-    "firma": "Google LLC",
-    "adresse": "1600 Amphitheatre Parkway, Mountain View, CA 94043, USA"
-  },
-  "playmobil.de": {
-    "firma": "Geobra Brandstätter Stiftung & Co. KG",
-    "adresse": "Brandstätterstraße 2-10, 90513 Zirndorf, Deutschland"
-  },
-  "playstation.com": {
-    "firma": "Sony Interactive Entertainment Europe",
-    "adresse": "10 Great Marlborough Street, London W1F 7LP, Vereinigtes Königreich"
-  },
-  "real.de": {
-    "firma": "Real Digital GmbH",
-    "adresse": "Metro-Straße 1, 40235 Düsseldorf, Deutschland"
-  },
-  "roller.de": {
-    "firma": "Roller GmbH & Co. KG",
-    "adresse": "Rheinlanddamm 201, 44139 Dortmund, Deutschland"
-  },
-  "rossmann.de": {
-    "firma": "Dirk Rossmann GmbH",
-    "adresse": "Isernhägener Str. 16, 30938 Burgwedel, Deutschland"
-  },
-  "s.oliver.de": {
-    "firma": "s.Oliver Bernd Freier GmbH & Co. KG",
-    "adresse": "s.Oliver-Straße 1, 97228 Rottendorf, Deutschland"
-  },
-  "sandro-paris.com": {
-    "firma": "Sandro SAS",
-    "adresse": "150 boulevard Haussmann, 75008 Paris, Frankreich"
-  },
-  "saturn.de": {
-    "firma": "Media-Saturn-Holding GmbH",
-    "adresse": "Wankelstraße 5, 85046 Ingolstadt, Deutschland"
-  },
-  "smyths.com/de": {
-    "firma": "Smyths Toys Superstores Ltd.",
-    "adresse": "John F. Kennedy-Str. 7, 63526 Erlensee, Deutschland"
-  },
-  "spotify.com": {
-    "firma": "Spotify AB",
-    "adresse": "Regeringsgatan 19, SE-111 53 Stockholm, Schweden"
-  },
-  "steamcommunity.com": {
-    "firma": "Valve Corporation",
-    "adresse": "10400 NE 4th Street, Bellevue, WA 98004, USA"
-  },
-  "tchibo.de": {
-    "firma": "Tchibo GmbH",
-    "adresse": "Überseering 18, 22297 Hamburg, Deutschland"
-  },
-  "tom-tailor.de": {
-    "firma": "Tom Tailor Holding SE",
-    "adresse": "Garstedter Weg 14, 22453 Hamburg, Deutschland"
-  },
-  "uniqlo.com": {
-    "firma": "Fast Retailing Co., Ltd.",
-    "adresse": "107-6231 Tokyo, Roppongi 6-10-1, Japan"
-  },
-  "uplay.com": {
-    "firma": "Ubisoft Entertainment SA",
-    "adresse": "28 Rue Armand Carrel, 93100 Montreuil, Frankreich"
-  },
-  "vtech.de": {
-    "firma": "VTech Electronics Europe GmbH",
-    "adresse": "Andreas-Gayk-Straße 1, 24103 Kiel, Deutschland"
-  },
-  "wayfair.de": {
-    "firma": "Wayfair Germany GmbH",
-    "adresse": "Lorettostraße 8, 40219 Düsseldorf, Deutschland"
-  },
-  "xxxlutz.de": {
-    "firma": "XXXLutz KG",
-    "adresse": "Römerstraße 39, 4600 Wels, Österreich"
-  },
-  "zalando.de": {
-    "firma": "Zalando SE",
-    "adresse": "Valeska-Gert-Straße 5, 10243 Berlin, Deutschland"
+  {
+    "c-and-a.com": {
+      "firma": "C&A Mode GmbH & Co. KG",
+      "adresse": "Wanheimer Straße 70, 40468 Düsseldorf, Deutschland",
+      "ustid": "DE123456789",
+      "telefon": "+49 211 123456",
+      "email": "service@c-and-a.com",
+      "kundenservice": "Mo-Fr 9-18 Uhr",
+      "bestellservice": "24/7"
+    },
+    "conrad.de": {
+      "firma": "Conrad Electronic SE",
+      "adresse": "Klaus-Conrad-Straße 1, 92240 Hirschau, Deutschland",
+      "ustid": "DE987654321",
+      "telefon": "+49 9602 123456",
+      "email": "support@conrad.de",
+      "kundenservice": "Mo-Fr 8-20 Uhr",
+      "bestellservice": "24/7"
+    },
+    "cyberport.de": {
+      "firma": "Cyberport GmbH",
+      "adresse": "Am Brauhaus 5, 01099 Dresden, Deutschland",
+      "ustid": "DE112233445",
+      "telefon": "+49 351 123456",
+      "email": "info@cyberport.de",
+      "kundenservice": "Mo-Fr 9-18 Uhr",
+      "bestellservice": "24/7"
+    },
+    "dehner.de": {
+      "firma": "Dehner Gartencenter GmbH & Co. KG",
+      "adresse": "Donauwörther Straße 3-5, 86641 Rain am Lech, Deutschland",
+      "ustid": "DE223344556",
+      "telefon": "+49 9072 123456",
+      "email": "kundenservice@dehner.de",
+      "kundenservice": "Mo-Fr 8-18 Uhr",
+      "bestellservice": "24/7"
+    },
+    "dm.de": {
+      "firma": "dm-drogerie markt GmbH + Co. KG",
+      "adresse": "Carl-Metz-Straße 1, 76185 Karlsruhe, Deutschland",
+      "ustid": "DE334455667",
+      "telefon": "+49 721 123456",
+      "email": "info@dm.de",
+      "kundenservice": "Mo-Fr 9-18 Uhr",
+      "bestellservice": "24/7"
+    },
+    "ebay.de": {
+      "firma": "eBay GmbH",
+      "adresse": "Albert-Einstein-Ring 2-6, 14532 Kleinmachnow, Deutschland",
+      "ustid": "DE445566778",
+      "telefon": "+49 33203 123456",
+      "email": "service@ebay.de",
+      "kundenservice": "Mo-Fr 9-18 Uhr",
+      "bestellservice": "24/7"
+    },
+    "edeka.de": {
+      "firma": "EDEKA Zentrale AG & Co. KG",
+      "adresse": "New-York-Ring 6, 22297 Hamburg, Deutschland",
+      "ustid": "DE556677889",
+      "telefon": "+49 40 123456",
+      "email": "kontakt@edeka.de",
+      "kundenservice": "Mo-Fr 8-18 Uhr",
+      "bestellservice": "24/7"
+    },
+    "epicgames.com": {
+      "firma": "Epic Games, Inc.",
+      "adresse": "620 Crossroads Blvd, Cary, NC 27518, USA",
+      "ustid": "US123456789",
+      "telefon": "+1 919 123456",
+      "email": "support@epicgames.com",
+      "kundenservice": "Mo-Fr 9-18 Uhr",
+      "bestellservice": "24/7"
+    },
+    "esprit.de": {
+      "firma": "Esprit Europe GmbH",
+      "adresse": "Esprit-Allee 1, 40882 Ratingen, Deutschland",
+      "ustid": "DE667788990",
+      "telefon": "+49 2102 123456",
+      "email": "service@esprit.de",
+      "kundenservice": "Mo-Fr 9-18 Uhr",
+      "bestellservice": "24/7"
+    },
+    "gog.com": {
+      "firma": "CD Projekt S.A.",
+      "adresse": "ul. Jagiellońska 74, 03-301 Warszawa, Polen",
+      "ustid": "PL123456789",
+      "telefon": "+48 22 123456",
+      "email": "support@gog.com",
+      "kundenservice": "Mo-Fr 9-18 Uhr",
+      "bestellservice": "24/7"
+    }
   }
 }
