@@ -10,7 +10,7 @@
   },
   "activision.com": {
     "firma": "Activision Blizzard Deutschland GmbH",
-    "adresse": "Fraunhoferstr. 7, 85737 Ismaning, Reg.-Bez. Oberbayern",
+    "adresse": "Fraunhoferstr. 7, 85737 Ismaning, Reg.-Bez. Oberbayern, Deutschland",
     "ustid": "Keine Angaben",
     "telefon": "089 999 81 70",
     "email": "techsupport@vgames.net",
@@ -62,9 +62,18 @@
     "kundenservice": "07-23 Uhr",
     "bestellservice": "Keine Angaben"
   },
+  "baur.de": {
+    "firma": "BAUR Versand (GmbH & Co KG)",
+    "adresse": "Bahnhofstraße 10, 96224, Burgkunstadt, Deutschland",
+    "ustid": "DE812304577",
+    "telefon": "095 72 910",
+    "email": "´service@baur.de",
+    "kundenservice": "Keine Angaben",
+    "bestellservice": "24/7"
+  },
   "blizzard.com": {
     "firma": "Activision Blizzard Deutschland GmbH",
-    "adresse": "Fraunhoferstr. 7, 85737 Ismaning, Reg.-Bez. Oberbayern",
+    "adresse": "Fraunhoferstr. 7, 85737 Ismaning, Reg.-Bez. Oberbayern, Deutschland",
     "ustid": "Keine Angaben",
     "telefon": "089 999 81 70",
     "email": "techsupport@vgames.net",
@@ -178,5 +187,50 @@
     "email": "support@gog.com",
     "kundenservice": "Mo-Fr 9-18 Uhr",
     "bestellservice": "24/7"
+  },
+  "instant-gaming.com": {
+    "firma": "Aliasing DMCC",
+    "adresse": "Unit 1204, JBC 3, Cluster Y, Jumeirah Lake Towers, Dubai, Vereinigte Arabische Emirate",
+    "ustid": "UAE - RN DMCC179752",
+    "telefon": "Keine Angaben",
+    "email": "Keine Angaben",
+    "kundenservice": "Keine Angaben",
+    "bestellservice": "24/7"
+  },
+  "xbox.com": {
+    "firma": "Microsoft Corporation",
+    "adresse": "One Microsoft Way, Redmond, Washington 98052-6399, USA",
+    "ustid": "600 413 485",
+    "telefon": "+49 (0) 1806 67 22 55",
+    "email": "kunden@microsoft.com",
+    "kundenservice": "0,20 € / Anruf",
+    "bestellservice": "Keine Angaben"
+  },
+  "otto.de": {
+    "firma": "Otto GmbH & Co. KGaA",
+    "adresse": "Werner-Otto-Straße 1-7, 22179, Hamburg, Deutschland",
+    "ustid": "DE340596305",
+    "telefon": "040 64 61 0",
+    "email": "impressum@otto.de",
+    "kundenservice": "Keine Angaben",
+    "bestellservice": "24/7"
+  },
+  "witt-weiden.de": {
+    "firma": "Josef Witt GmbH",
+    "adresse": "Schillerstraße 4-12, 92637, Weiden in der Oberpfalz, Deutschland",
+    "ustid": "DE811146972",
+    "telefon": "0961 400 95 95",
+    "email": "kundenservice@witt-weiden.de",
+    "kundenservice": "24/7",
+    "bestellservice": "24/7"
+  },
+  "xbox.com": {
+    "firma": "Microsoft Corporation",
+    "adresse": "One Microsoft Way, Redmond, Washington 98052-6399, USA",
+    "ustid": "600 413 485",
+    "telefon": "+49 (0) 1806 67 22 55",
+    "email": "kunden@microsoft.com",
+    "kundenservice": "0,20 € / Anruf",
+    "bestellservice": "Keine Angaben"
   }
 }
