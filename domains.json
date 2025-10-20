@@ -1,11 +1,12 @@
 {
   "aboutyou.de": {
-    "firma": "About You Holding SE",
+    "firma": "ABOUT YOU SE & Co. KG",
     "adresse": "Domstraße 10, 20095 Hamburg, Deutschland"
   },
   "alternate.de": {
     "firma": "ALTERNATE GmbH",
     "adresse": "Philipp-Reis-Straße 2-3, 35440 Linden, Deutschland"
+    
   },
   "amazon.de": {
     "firma": "Amazon EU S.à r.l.",
@@ -31,9 +32,7 @@
     "firma": "Blizzard Entertainment, Inc.",
     "adresse": "1 Blizzard Way, Irvine, CA 92618, USA"
   },
-  "bonprix.de": {
-    "firma": "Bonprix Handelsgesellschaft mbH",
-    "adresse": "Haldesdorfer Str. 61, 22179 Hamburg, Deutschland"
+  "bonprix.de": { "firma": "Bonprix Handelsgesellschaft mbH", "adresse": "Haldesdorfer Straße 61, 22179 Hamburg, Deutschland", "ustid": "-", // (nicht öffentlich bestätigt) "telefon": "040 6462-0", "email": "service@bonprix.net", "servicezeiten": { "kundenservice": "Mo–Sa 7:00–23:00, So 8:00–23:00", "bestellservice": "24/7"
   },
   "butlers.com": {
     "firma": "Butlers GmbH & Co. KG",
@@ -81,7 +80,7 @@
   },
   "grover.com": {
     "firma": "Grover Deutschland GmbH",
-    "adresse": "Holzmarktstraße 11, 10179 Berlin, Deutschland"
+    "adresse": "Potsdamer Str. 125, 10783 Berlin, Deutschland"
   },
   "h&m.com": {
     "firma": "H&M Hennes & Mauritz AB",
