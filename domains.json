@@ -1,353 +1,39 @@
-{
-  "aboutyou.de": {
-    "firma": "ABOUT YOU SE & Co. KG",
-    "adresse": "Domstraße 10, 20095 Hamburg, Deutschland",
-    "ustid": "DE339819462",
-    "telefon": "0800 30 15 085",
-    "email": "kundenservice@aboutyou.de",
-    "kundenservice": "Keine Angaben",
-    "bestellservice": "Keine Angaben"
-  },
-  "activision.com": {
-    "firma": "Activision Blizzard Deutschland GmbH",
-    "adresse": "Fraunhoferstr. 7, 85737 Ismaning, Reg.-Bez. Oberbayern, Deutschland",
-    "ustid": "Keine Angaben",
-    "telefon": "089 999 81 70",
-    "email": "techsupport@vgames.net",
-    "kundenservice": "Keine Angaben",
-    "bestellservice": "Keine Angaben"
-  },
-  "alternate.de": {
-    "firma": "ALTERNATE GmbH",
-    "adresse": "Philipp-Reis-Straße 2-3, 35440 Linden, Deutschland",
-    "ustid": "DE112595008",
-    "telefon": "06403 90 50 40",
-    "email": "info@alternate.de",
-    "kundenservice": "Mo-Fr 09:00-17:00",
-    "bestellservice": "Keine Angaben"
-  },
-  "amazon.de": {
-    "firma": "Amazon EU S.à r.l.",
-    "adresse": "38 avenue John F. Kennedy, L-1855 Luxemburg",
-    "ustid": "LU20260743",
-    "telefon": "0800 36 38 469",
-    "email": "impressum@amazon.de",
-    "kundenservice": "24/7",
-    "bestellservice": "24/7"
-  },
-  "anker.com": {
-    "firma": "Anker Innovations Deutschland GmbH",
-    "adresse": "Georg-Muche-Strasse 3, 80807 München, Deutschland",
-    "ustid": "DE295307777",
-    "telefon": "+49 69 9579 7960",
-    "email": "support@anker.com",
-    "kundenservice": "Unbekannt",
-    "bestellservice": "Keine Angaben"
-  },
-  "apple.com": {
-    "firma": "Apple Distribution International Ltd.",
-    "adresse": "Hollyhill Industrial Estate, Cork, Irland",
-    "ustid": "IE9700053D",
-    "telefon": "0800 2000 136",
-    "email": "contactus.de@euro.apple.com",
-    "kundenservice": "Mo-Fr 9-20 Uhr, Sa 9-18 Uhr",
-    "bestellservice": "0800 2000 136"
-  },
-  "babywalz.de": {
-    "firma": "baby-walz GmbH",
-    "adresse": "Steinstraße 28, 88339 Bad Waldsee, Deutschland",
-    "ustid": "DE270182745",
-    "telefon": "07524 415 9506",
-    "email": "info@baby-walz.de",
-    "kundenservice": "07-23 Uhr",
-    "bestellservice": "Keine Angaben"
-  },
-  "baur.de": {
-    "firma": "BAUR Versand (GmbH & Co KG)",
-    "adresse": "Bahnhofstraße 10, 96224, Burgkunstadt, Deutschland",
-    "ustid": "DE812304577",
-    "telefon": "095 72 910",
-    "email": "service@baur.de",
-    "kundenservice": "Keine Angaben",
-    "bestellservice": "24/7"
-  },
-  "blizzard.com": {
-    "firma": "Activision Blizzard Deutschland GmbH",
-    "adresse": "Fraunhoferstr. 7, 85737 Ismaning, Reg.-Bez. Oberbayern, Deutschland",
-    "ustid": "Keine Angaben",
-    "telefon": "089 999 81 70",
-    "email": "techsupport@vgames.net",
-    "kundenservice": "Keine Angaben",
-    "bestellservice": "Keine Angaben"
-  },
-  "bonprix.de": {
-    "firma": "Bonprix Handelsgesellschaft mbH",
-    "adresse": "Haldesdorfer Straße 61, 22179 Hamburg, Deutschland",
-    "ustid": "DE811146964",
-    "telefon": "040 6462 321",
-    "email": "service@bonprix.net",
-    "kundenservice": "Mo-Fr 7-22 Uhr, Sa-So 8-22 Uhr",
-    "bestellservice": "24/7"
-  },
-  "butlers.com": {
-    "firma": "Butlers GmbH & Co. KG",
-    "adresse": "Hohenzollernring 16-18, 50672 Köln, Deutschland",
-    "ustid": "DE200049899",
-    "telefon": "0221 272 64 80",
-    "email": "impressum@butlers.com",
-    "kundenservice": "Mo-Fr 9-18 Uhr",
-    "bestellservice": "24/7"
-  },
-  "c-and-a.com": {
-    "firma": "C&A Mode GmbH & Co. KG",
-    "adresse": "Wanheimer Straße 70, 40468 Düsseldorf, Deutschland",
-    "ustid": "DE123456789",
-    "telefon": "+49 211 123456",
-    "email": "service@c-and-a.com",
-    "kundenservice": "Mo-Fr 9-18 Uhr",
-    "bestellservice": "24/7"
-  },
-  "conrad.de": {
-    "firma": "Conrad Electronic SE",
-    "adresse": "Klaus-Conrad-Straße 1, 92240 Hirschau, Deutschland",
-    "ustid": "DE987654321",
-    "telefon": "+49 9602 123456",
-    "email": "support@conrad.de",
-    "kundenservice": "Mo-Fr 8-20 Uhr",
-    "bestellservice": "24/7"
-  },
-  "cyberport.de": {
-    "firma": "Cyberport GmbH",
-    "adresse": "Am Brauhaus 5, 01099 Dresden, Deutschland",
-    "ustid": "DE112233445",
-    "telefon": "+49 351 123456",
-    "email": "info@cyberport.de",
-    "kundenservice": "Mo-Fr 9-18 Uhr",
-    "bestellservice": "24/7"
-  },
-  "dehner.de": {
-    "firma": "Dehner Gartencenter GmbH & Co. KG",
-    "adresse": "Donauwörther Straße 3-5, 86641 Rain am Lech, Deutschland",
-    "ustid": "DE223344556",
-    "telefon": "+49 9072 123456",
-    "email": "kundenservice@dehner.de",
-    "kundenservice": "Mo-Fr 8-18 Uhr",
-    "bestellservice": "24/7"
-  },
-  "dm.de": {
-    "firma": "dm-drogerie markt GmbH + Co. KG",
-    "adresse": "Carl-Metz-Straße 1, 76185 Karlsruhe, Deutschland",
-    "ustid": "DE334455667",
-    "telefon": "+49 721 123456",
-    "email": "info@dm.de",
-    "kundenservice": "Mo-Fr 9-18 Uhr",
-    "bestellservice": "24/7"
-  },
-  "ebay.de": {
-    "firma": "eBay GmbH",
-    "adresse": "Albert-Einstein-Ring 2-6, 14532 Kleinmachnow, Deutschland",
-    "ustid": "DE445566778",
-    "telefon": "+49 33203 123456",
-    "email": "service@ebay.de",
-    "kundenservice": "Mo-Fr 9-18 Uhr",
-    "bestellservice": "24/7"
-  },
-  "edeka.de": {
-    "firma": "EDEKA Zentrale AG & Co. KG",
-    "adresse": "New-York-Ring 6, 22297 Hamburg, Deutschland",
-    "ustid": "DE556677889",
-    "telefon": "+49 40 123456",
-    "email": "kontakt@edeka.de",
-    "kundenservice": "Mo-Fr 8-18 Uhr",
-    "bestellservice": "24/7"
-  },
-  "epicgames.com": {
-    "firma": "Epic Games, Inc.",
-    "adresse": "620 Crossroads Blvd, Cary, NC 27518, USA",
-    "ustid": "US123456789",
-    "telefon": "+1 919 123456",
-    "email": "support@epicgames.com",
-    "kundenservice": "Mo-Fr 9-18 Uhr",
-    "bestellservice": "24/7"
-  },
-  "esprit.de": {
-    "firma": "Esprit Europe GmbH",
-    "adresse": "Esprit-Allee 1, 40882 Ratingen, Deutschland",
-    "ustid": "DE667788990",
-    "telefon": "+49 2102 123456",
-    "email": "service@esprit.de",
-    "kundenservice": "Mo-Fr 9-18 Uhr",
-    "bestellservice": "24/7"
-  },
-  "gog.com": {
-    "firma": "CD Projekt S.A.",
-    "adresse": "ul. Jagiellońska 74, 03-301 Warszawa, Polen",
-    "ustid": "PL123456789",
-    "telefon": "+48 22 123456",
-    "email": "support@gog.com",
-    "kundenservice": "Mo-Fr 9-18 Uhr",
-    "bestellservice": "24/7"
-  },
-  "instant-gaming.com": {
-    "firma": "Aliasing DMCC",
-    "adresse": "Unit 1204, JBC 3, Cluster Y, Jumeirah Lake Towers, Dubai, Vereinigte Arabische Emirate",
-    "ustid": "UAE - RN DMCC179752",
-    "telefon": "Keine Angaben",
-    "email": "Keine Angaben",
-    "kundenservice": "Keine Angaben",
-    "bestellservice": "24/7"
-  },
-  "microsoft.com": {
-    "firma": "Microsoft Corporation",
-    "adresse": "One Microsoft Way, Redmond, Washington 98052-6399, USA",
-    "ustid": "600 413 485",
-    "telefon": "+49 (0) 1806 67 22 55",
-    "email": "kunden@microsoft.com",
-    "kundenservice": "0,20 € / Anruf",
-    "bestellservice": "Keine Angaben"
-  },
-  "otto.de": {
-    "firma": "Otto GmbH & Co. KGaA",
-    "adresse": "Werner-Otto-Straße 1-7, 22179, Hamburg, Deutschland",
-    "ustid": "DE340596305",
-    "telefon": "040 64 61 0",
-    "email": "impressum@otto.de",
-    "kundenservice": "Keine Angaben",
-    "bestellservice": "24/7"
-  },
-  "witt-weiden.de": {
-    "firma": "Josef Witt GmbH",
-    "adresse": "Schillerstraße 4-12, 92637, Weiden in der Oberpfalz, Deutschland",
-    "ustid": "DE811146972",
-    "telefon": "0961 400 95 95",
-    "email": "kundenservice@witt-weiden.de",
-    "kundenservice": "24/7",
-    "bestellservice": "24/7"
-  },
-  "xbox.com": {
-    "firma": "Microsoft Corporation",
-    "adresse": "One Microsoft Way, Redmond, Washington 98052-6399, USA",
-    "ustid": "600 413 485",
-    "telefon": "+49 (0) 1806 67 22 55",
-    "email": "kunden@microsoft.com",
-    "kundenservice": "0,20 € / Anruf",
-    "bestellservice": "Keine Angaben"
-  },
-  "adidas.de": {
-    "firma": "adidas AG",
-    "adresse": "Adi-Dassler-Straße 1, 91074 Herzogenaurach, Deutschland",
-    "ustid": "DE132490588",
-    "telefon": "Keine Angaben",
-    "email": "serviceinfo@onlineshop.adidas.com",
-    "kundenservice": "Keine Angaben",
-    "bestellservice": "Keine Angaben"
-  },
-  "hugendubel.com": {
-    "firma": "H. Hugendubel GmbH & Co. KG",
-    "adresse": "Maria-Luiko-Straße 54, 80636 München, Deutschland",
-    "ustid": "DE130499587",
-    "telefon": "089 30 75 75 75",
-    "email": "service@hugendubel.de",
-    "kundenservice": "Mo.-Sa. 9-18 Uhr",
-    "bestellservice": "Keine Angaben"
-  },
-  "hugoboss.com": {
-    "firma": "HUGO BOSS AG",
-    "adresse": "Dieselstraße 12, 72555 Metzingen, Deutschland",
-    "ustid": "DE147164472",
-    "telefon": "071 239 40",
-    "email": "onlinestore@hugoboss.com",
-    "kundenservice": "Keine Angaben",
-    "bestellservice": "Keine Angaben"
-  },
-  "hm.com": {
-    "firma": "H & M Hennes & Mauritz B.V. & Co. KG",
-    "adresse": "Spitalerstraße 12, 20095 Hamburg, Deutschland",
-    "ustid": "DE118569718",
-    "telefon": "040 34979900 oder 0800 66 55 900",
-    "email": "kundenservice.de@hm.com",
-    "kundenservice": "Mo. - Fr. von 8-21 Uhr, Sa. und So. von 9-17 Uhr",
-    "bestellservice": "24/7"
-  },
-  "ikea.com": {
-    "firma": "IKEA Deutschland GmbH & Co. KG",
-    "adresse": "Am Wandersmann 2–4, 65719 Hofheim-Wallau, Deutschland",
-    "ustid": "DE113855061",
-    "telefon": "0619 29 39 99 99",
-    "email": "Keine Angaben",
-    "kundenservice": "Mo. - Fr. 8–20 Uhr, Sa. 8–19:30 Uhr",
-    "bestellservice": "24/7"
-  },
-  "kleinanzeigen.de": {
-    "firma": "Kleinanzeigen GmbH",
-    "adresse": "Albert-Einstein-Ring 26, 22761 Hamburg, Deutschland",
-    "ustid": "DE256335105",
-    "telefon": "Keine Angabe",
-    "email": "Keine Angabe",
-    "kundenservice": "Keine Angabe",
-    "bestellservice": "Keine Angabe"
-  },
-  "lidl.de": {
-    "firma": "LIDL Dienstleistung GmbH & Co. KG",
-    "adresse": "Stiftsbergstraße 1, 74172 Neckarsulm, Deutschland",
-    "ustid": "DE145806631",
-    "telefon": "030 22 00 55 00",
-    "email": "Keine Angaben",
-    "kundenservice": "Mo. - So. 7 - 23 Uhr",
-    "bestellservice": "Keine Angaben"
-  },
-  "mediamarkt.de": {
-    "firma": "MediaMarktSaturn Retail Group GmbH",
-    "adresse": "Media-Saturn-Straße 1, 85053 Ingolstadt, Deutschland",
-    "ustid": "Die USt-ID variiert je nach lokaler Filiale oder den spezifischen Servicebereichen.",
-    "telefon": "0221 22 243 333",
-    "email": "Keine Angaben",
-    "kundenservice": "Mo. - Sa. 8–21 Uhr, So. und Feiertag 9–18 Uhr",
-    "bestellservice": "24/7"
-  },
-  "shop-apotheke.com": {
-    "firma": "Shop-Apotheke B.V.",
-    "adresse": "Postfach 410118, 41241 Mönchengladbach, Deutschland",
-    "ustid": "Keine Angaben",
-    "telefon": "030 30 80 66 00",
-    "email": "kontakt@shop-apotheke.com",
-    "kundenservice": "Mo. - Sa. 8-20 Uhr.",
-    "bestellservice": "24/7"
-  },
-  "saturn.de": {
-    "firma": "MediaMarktSaturn Retail Group GmbH",
-    "adresse": "Media-Saturn-Straße 1, 85053 Ingolstadt, Deutschland",
-    "ustid": "Die USt-ID variiert je nach lokaler Filiale oder den spezifischen Servicebereichen.",
-    "telefon": "0221 22 243 333",
-    "email": "Keine Angaben",
-    "kundenservice": "Mo. - Sa. 8–21 Uhr, So. und Feiertag 9–18 Uhr",
-    "bestellservice": "24/7"
-  },
-  "thalia.de": {
-    "firma": "Thalia Bücher GmbH",
-    "adresse": "An den Speichern 8, 48157 Münster, Deutschland",
-    "ustid": "Keine Angaben",
-    "telefon": "0251 530 93 30 (Allgemein) und 0251 530 94 44 (Digitales)",
-    "email": "info@thalia.de",
-    "kundenservice": "24/7 (Allgemein) und Mo. bis Fr. 9–18 Uhr, Sa. 9:30–18 Uhr (Digital)",
-    "bestellservice": "24/7"
-  },
-  "vinted.de": {
-    "firma": "Vinted, UAB",
-    "adresse": "Švitrigailos g. 13, 03228 Vilnius, Litauen",
-    "ustid": "LT100006918914",
-    "telefon": "Keine Angaben",
-    "email": "legal@vinted.de",
-    "kundenservice": "Keine Angaben",
-    "bestellservice": "Keine Angaben"
-  },
-  "zalando.de": {
-    "firma": "Zalando SE",
-    "adresse": "Valeska-Gert-Straße 5, 10243 Berlin, Deutschland",
-    "ustid": "DE260543043",
-    "telefon": "030 20 21 98 00",
-    "email": "info@zalando.de",
-    "kundenservice": "Keine Angaben",
-    "bestellservice": "Keine Angaben"
-  }
-}
+{"aboutyou.de":{"firma":"ABOUT YOU SE & Co. KG","adresse":"Domstraße 10, 20095 Hamburg, Deutschland","ustid":"DE339819462","telefon":"0800 30 15 085","email":"kundenservice@aboutyou.de","kundenservice":"Keine Angaben","bestellservice":"Keine Angaben"}}
+{"activision.com":{"firma":"Activision Blizzard Deutschland GmbH","adresse":"Fraunhoferstr. 7, 85737 Ismaning, Reg.-Bez. Oberbayern, Deutschland","ustid":"Keine Angaben","telefon":"089 999 81 70","email":"techsupport@vgames.net","kundenservice":"Keine Angaben","bestellservice":"Keine Angaben"}}
+{"alternate.de":{"firma":"ALTERNATE GmbH","adresse":"Philipp-Reis-Straße 2-3, 35440 Linden, Deutschland","ustid":"DE112595008","telefon":"06403 90 50 40","email":"info@alternate.de","kundenservice":"Mo-Fr 09:00-17:00","bestellservice":"Keine Angaben"}}
+{"amazon.de":{"firma":"Amazon EU S.à r.l.","adresse":"38 avenue John F. Kennedy, L-1855 Luxemburg","ustid":"LU20260743","telefon":"0800 36 38 469","email":"impressum@amazon.de","kundenservice":"24/7","bestellservice":"24/7"}}
+{"anker.com":{"firma":"Anker Innovations Deutschland GmbH","adresse":"Georg-Muche-Strasse 3, 80807 München, Deutschland","ustid":"DE295307777","telefon":"+49 69 9579 7960","email":"support@anker.com","kundenservice":"Unbekannt","bestellservice":"Keine Angaben"}}
+{"apple.com":{"firma":"Apple Distribution International Ltd.","adresse":"Hollyhill Industrial Estate, Cork, Irland","ustid":"IE9700053D","telefon":"0800 2000 136","email":"contactus.de@euro.apple.com","kundenservice":"Mo-Fr 9-20 Uhr, Sa 9-18 Uhr","bestellservice":"0800 2000 136"}}
+{"babywalz.de":{"firma":"baby-walz GmbH","adresse":"Steinstraße 28, 88339 Bad Waldsee, Deutschland","ustid":"DE270182745","telefon":"07524 415 9506","email":"info@baby-walz.de","kundenservice":"07-23 Uhr","bestellservice":"Keine Angaben"}}
+{"baur.de":{"firma":"BAUR Versand (GmbH & Co KG)","adresse":"Bahnhofstraße 10, 96224, Burgkunstadt, Deutschland","ustid":"DE812304577","telefon":"095 72 910","email":"service@baur.de","kundenservice":"Keine Angaben","bestellservice":"24/7"}}
+{"blizzard.com":{"firma":"Activision Blizzard Deutschland GmbH","adresse":"Fraunhoferstr. 7, 85737 Ismaning, Reg.-Bez. Oberbayern, Deutschland","ustid":"Keine Angaben","telefon":"089 999 81 70","email":"techsupport@vgames.net","kundenservice":"Keine Angaben","bestellservice":"Keine Angaben"}}
+{"bonprix.de":{"firma":"Bonprix Handelsgesellschaft mbH","adresse":"Haldesdorfer Straße 61, 22179 Hamburg, Deutschland","ustid":"DE811146964","telefon":"040 6462 321","email":"service@bonprix.net","kundenservice":"Mo-Fr 7-22 Uhr, Sa-So 8-22 Uhr","bestellservice":"24/7"}}
+{"butlers.com":{"firma":"Butlers GmbH & Co. KG","adresse":"Hohenzollernring 16-18, 50672 Köln, Deutschland","ustid":"DE200049899","telefon":"0221 272 64 80","email":"impressum@butlers.com","kundenservice":"Mo-Fr 9-18 Uhr","bestellservice":"24/7"}}
+{"c-and-a.com":{"firma":"C&A Mode GmbH & Co. KG","adresse":"Wanheimer Straße 70, 40468 Düsseldorf, Deutschland","ustid":"DE123456789","telefon":"+49 211 123456","email":"service@c-and-a.com","kundenservice":"Mo-Fr 9-18 Uhr","bestellservice":"24/7"}}
+{"conrad.de":{"firma":"Conrad Electronic SE","adresse":"Klaus-Conrad-Straße 1, 92240 Hirschau, Deutschland","ustid":"DE987654321","telefon":"+49 9602 123456","email":"support@conrad.de","kundenservice":"Mo-Fr 8-20 Uhr","bestellservice":"24/7"}}
+{"cyberport.de":{"firma":"Cyberport GmbH","adresse":"Am Brauhaus 5, 01099 Dresden, Deutschland","ustid":"DE112233445","telefon":"+49 351 123456","email":"info@cyberport.de","kundenservice":"Mo-Fr 9-18 Uhr","bestellservice":"24/7"}}
+{"dehner.de":{"firma":"Dehner Gartencenter GmbH & Co. KG","adresse":"Donauwörther Straße 3-5, 86641 Rain am Lech, Deutschland","ustid":"DE223344556","telefon":"+49 9072 123456","email":"kundenservice@dehner.de","kundenservice":"Mo-Fr 8-18 Uhr","bestellservice":"24/7"}}
+{"dm.de":{"firma":"dm-drogerie markt GmbH + Co. KG","adresse":"Carl-Metz-Straße 1, 76185 Karlsruhe, Deutschland","ustid":"DE334455667","telefon":"+49 721 123456","email":"info@dm.de","kundenservice":"Mo-Fr 9-18 Uhr","bestellservice":"24/7"}}
+{"ebay.de":{"firma":"eBay GmbH","adresse":"Albert-Einstein-Ring 2-6, 14532 Kleinmachnow, Deutschland","ustid":"DE445566778","telefon":"+49 33203 123456","email":"service@ebay.de","kundenservice":"Mo-Fr 9-18 Uhr","bestellservice":"24/7"}}
+{"edeka.de":{"firma":"EDEKA Zentrale AG & Co. KG","adresse":"New-York-Ring 6, 22297 Hamburg, Deutschland","ustid":"DE556677889","telefon":"+49 40 123456","email":"kontakt@edeka.de","kundenservice":"Mo-Fr 8-18 Uhr","bestellservice":"24/7"}}
+{"epicgames.com":{"firma":"Epic Games, Inc.","adresse":"620 Crossroads Blvd, Cary, NC 27518, USA","ustid":"US123456789","telefon":"+1 919 123456","email":"support@epicgames.com","kundenservice":"Mo-Fr 9-18 Uhr","bestellservice":"24/7"}}
+{"esprit.de":{"firma":"Esprit Europe GmbH","adresse":"Esprit-Allee 1, 40882 Ratingen, Deutschland","ustid":"DE667788990","telefon":"+49 2102 123456","email":"service@esprit.de","kundenservice":"Mo-Fr 9-18 Uhr","bestellservice":"24/7"}}
+{"gog.com":{"firma":"CD Projekt S.A.","adresse":"ul. Jagiellońska 74, 03-301 Warszawa, Polen","ustid":"PL123456789","telefon":"+48 22 123456","email":"support@gog.com","kundenservice":"Mo-Fr 9-18 Uhr","bestellservice":"24/7"}}
+{"instant-gaming.com":{"firma":"Aliasing DMCC","adresse":"Unit 1204, JBC 3, Cluster Y, Jumeirah Lake Towers, Dubai, Vereinigte Arabische Emirate","ustid":"UAE - RN DMCC179752","telefon":"Keine Angaben","email":"Keine Angaben","kundenservice":"Keine Angaben","bestellservice":"24/7"}}
+{"microsoft.com":{"firma":"Microsoft Corporation","adresse":"One Microsoft Way, Redmond, Washington 98052-6399, USA","ustid":"600 413 485","telefon":"+49 (0) 1806 67 22 55","email":"kunden@microsoft.com","kundenservice":"0,20 € / Anruf","bestellservice":"Keine Angaben"}}
+{"otto.de":{"firma":"Otto GmbH & Co. KGaA","adresse":"Werner-Otto-Straße 1-7, 22179, Hamburg, Deutschland","ustid":"DE340596305","telefon":"040 64 61 0","email":"impressum@otto.de","kundenservice":"Keine Angaben","bestellservice":"24/7"}}
+{"witt-weiden.de":{"firma":"Josef Witt GmbH","adresse":"Schillerstraße 4-12, 92637, Weiden in der Oberpfalz, Deutschland","ustid":"DE811146972","telefon":"0961 400 95 95","email":"kundenservice@witt-weiden.de","kundenservice":"24/7","bestellservice":"24/7"}}
+{"xbox.com":{"firma":"Microsoft Corporation","adresse":"One Microsoft Way, Redmond, Washington 98052-6399, USA","ustid":"600 413 485","telefon":"+49 (0) 1806 67 22 55","email":"kunden@microsoft.com","kundenservice":"0,20 € / Anruf","bestellservice":"Keine Angaben"}}
+{"adidas.de":{"firma":"adidas AG","adresse":"Adi-Dassler-Straße 1, 91074 Herzogenaurach, Deutschland","ustid":"DE132490588","telefon":"Keine Angaben","email":"serviceinfo@onlineshop.adidas.com","kundenservice":"Keine Angaben","bestellservice":"Keine Angaben"}}
+{"hugendubel.com":{"firma":"H. Hugendubel GmbH & Co. KG","adresse":"Maria-Luiko-Straße 54, 80636 München, Deutschland","ustid":"DE130499587","telefon":"089 30 75 75 75","email":"service@hugendubel.de","kundenservice":"Mo.-Sa. 9-18 Uhr","bestellservice":"Keine Angaben"}}
+{"hugoboss.com":{"firma":"HUGO BOSS AG","adresse":"Dieselstraße 12, 72555 Metzingen, Deutschland","ustid":"DE147164472","telefon":"071 239 40","email":"onlinestore@hugoboss.com","kundenservice":"Keine Angaben","bestellservice":"Keine Angaben"}}
+{"hm.com":{"firma":"H & M Hennes & Mauritz B.V. & Co. KG","adresse":"Spitalerstraße 12, 20095 Hamburg, Deutschland","ustid":"DE118569718","telefon":"040 34979900 oder 0800 66 55 900","email":"kundenservice.de@hm.com","kundenservice":"Mo. - Fr. von 8-21 Uhr, Sa. und So. von 9-17 Uhr","bestellservice":"24/7"}}
+{"ikea.com":{"firma":"IKEA Deutschland GmbH & Co. KG","adresse":"Am Wandersmann 2–4, 65719 Hofheim-Wallau, Deutschland","ustid":"DE113855061","telefon":"0619 29 39 99 99","email":"Keine Angaben","kundenservice":"Mo. - Fr. 8–20 Uhr, Sa. 8–19:30 Uhr","bestellservice":"24/7"}}
+{"kleinanzeigen.de":{"firma":"Kleinanzeigen GmbH","adresse":"Albert-Einstein-Ring 26, 22761 Hamburg, Deutschland","ustid":"DE256335105","telefon":"Keine Angabe","email":"Keine Angabe","kundenservice":"Keine Angabe","bestellservice":"Keine Angabe"}}
+{"lidl.de":{"firma":"LIDL Dienstleistung GmbH & Co. KG","adresse":"Stiftsbergstraße 1, 74172 Neckarsulm, Deutschland","ustid":"DE145806631","telefon":"030 22 00 55 00","email":"Keine Angaben","kundenservice":"Mo. - So. 7 - 23 Uhr","bestellservice":"Keine Angaben"}}
+{"mediamarkt.de":{"firma":"MediaMarktSaturn Retail Group GmbH","adresse":"Media-Saturn-Straße 1, 85053 Ingolstadt, Deutschland","ustid":"Die USt-ID variiert je nach lokaler Filiale oder den spezifischen Servicebereichen.","telefon":"0221 22 243 333","email":"Keine Angaben","kundenservice":"Mo. - Sa. 8–21 Uhr, So. und Feiertag 9–18 Uhr","bestellservice":"24/7"}}
+{"shop-apotheke.com":{"firma":"Shop-Apotheke B.V.","adresse":"Postfach 410118, 41241 Mönchengladbach, Deutschland","ustid":"Keine Angaben","telefon":"030 30 80 66 00","email":"kontakt@shop-apotheke.com","kundenservice":"Mo. - Sa. 8-20 Uhr.","bestellservice":"24/7"}}
+{"saturn.de":{"firma":"MediaMarktSaturn Retail Group GmbH","adresse":"Media-Saturn-Straße 1, 85053 Ingolstadt, Deutschland","ustid":"Die USt-ID variiert je nach lokaler Filiale oder den spezifischen Servicebereichen.","telefon":"0221 22 243 333","email":"Keine Angaben","kundenservice":"Mo. - Sa. 8–21 Uhr, So. und Feiertag 9–18 Uhr","bestellservice":"24/7"}}
+{"thalia.de":{"firma":"Thalia Bücher GmbH","adresse":"An den Speichern 8, 48157 Münster, Deutschland","ustid":"Keine Angaben","telefon":"0251 530 93 30 (Allgemein) und 0251 530 94 44 (Digitales)","email":"info@thalia.de","kundenservice":"24/7 (Allgemein) und Mo. bis Fr. 9–18 Uhr, Sa. 9:30–18 Uhr (Digital)","bestellservice":"24/7"}}
+{"vinted.de":{"firma":"Vinted, UAB","adresse":"Švitrigailos g. 13, 03228 Vilnius, Litauen","ustid":"LT100006918914","telefon":"Keine Angaben","email":"legal@vinted.de","kundenservice":"Keine Angaben","bestellservice":"Keine Angaben"}}
+{"zalando.de":{"firma":"Zalando SE","adresse":"Valeska-Gert-Straße 5, 10243 Berlin, Deutschland","ustid":"DE260543043","telefon":"030 20 21 98 00","email":"info@zalando.de","kundenservice":"Keine Angaben","bestellservice":"Keine Angaben"}}
