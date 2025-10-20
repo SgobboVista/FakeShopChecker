@@ -232,5 +232,122 @@
     "email": "kunden@microsoft.com",
     "kundenservice": "0,20 € / Anruf",
     "bestellservice": "Keine Angaben"
+  },
+  "adidas.de": {
+    "firma": "adidas AG",
+    "adresse": "Adi-Dassler-Straße 1, 91074 Herzogenaurach, Deutschland",
+    "ustid": "DE132490588",
+    "telefon": "Keine Angaben",
+    "email": "serviceinfo@onlineshop.adidas.com",
+    "kundenservice": "Keine Angaben",
+    "bestellservice": "Keine Angaben"
+  },
+  "hugendubel.com": {
+    "firma": "H. Hugendubel GmbH & Co. KG",
+    "adresse": "Maria-Luiko-Straße 54, 80636 München, Deutschland",
+    "ustid": "DE130499587",
+    "telefon": "089 30 75 75 75",
+    "email": "service@hugendubel.de",
+    "kundenservice": "Mo.-Sa. 9-18 Uhr",
+    "bestellservice": "Keine Angaben"
+  },
+  "hugoboss.com": {
+    "firma": "HUGO BOSS AG",
+    "adresse": "Dieselstraße 12, 72555 Metzingen, Deutschland",
+    "ustid": "DE147164472",
+    "telefon": "071 239 40",
+    "email": "onlinestore@hugoboss.com",
+    "kundenservice": "Keine Angaben",
+    "bestellservice": "Keine Angaben"
+  },
+  "hm.com": {
+    "firma": "H & M Hennes & Mauritz B.V. & Co. KG",
+    "adresse": "Spitalerstraße 12, 20095 Hamburg, Deutschland",
+    "ustid": "DE118569718",
+    "telefon": "040 34979900 oder 0800 66 55 900",
+    "email": "kundenservice.de@hm.com",
+    "kundenservice": "Mo. - Fr. von 8-21 Uhr, Sa. und So. von 9-17 Uhr",
+    "bestellservice": "24/7"
+  },
+  "ikea.com": {
+    "firma": "IKEA Deutschland GmbH & Co. KG",
+    "adresse": "Am Wandersmann 2–4, 65719 Hofheim-Wallau, Deutschland",
+    "ustid": "DE113855061",
+    "telefon": "0619 29 39 99 99",
+    "email": "Keine Angaben",
+    "kundenservice": "Mo. - Fr. 8–20 Uhr, Sa. 8–19:30 Uhr",
+    "bestellservice": "24/7"
+  },
+  "kleinanzeigen.de": {
+    "firma": "Kleinanzeigen GmbH",
+    "adresse": "Albert-Einstein-Ring 26, 22761 Hamburg, Deutschland",
+    "ustid": "DE256335105",
+    "telefon": "Keine Angabe",
+    "email": "Keine Angabe",
+    "kundenservice": "Keine Angabe",
+    "bestellservice": "Keine Angabe"
+  },
+  "lidl.de": {
+    "firma": "LIDL Dienstleistung GmbH & Co. KG",
+    "adresse": "Stiftsbergstraße 1, 74172 Neckarsulm, Deutschland",
+    "ustid": "DE145806631",
+    "telefon": "030 22 00 55 00",
+    "email": "Keine Angaben",
+    "kundenservice": "Mo. - So. 7 - 23 Uhr",
+    "bestellservice": "Keine Angaben"
+  },
+  "mediamarkt.de": {
+    "firma": "MediaMarktSaturn Retail Group GmbH",
+    "adresse": "Media-Saturn-Straße 1, 85053 Ingolstadt, Deutschland",
+    "ustid": "Die USt-ID variiert je nach lokaler Filiale oder den spezifischen Servicebereichen.",
+    "telefon": "0221 22 243 333",
+    "email": "Keine Angaben",
+    "kundenservice": "Mo. - Sa. 8–21 Uhr, So. und Feiertag 9–18 Uhr",
+    "bestellservice": "24/7"
+  },
+  "shop-apotheke.com": {
+    "firma": "Shop-Apotheke B.V.",
+    "adresse": "Postfach 410118, 41241 Mönchengladbach, Deutschland",
+    "ustid": "Keine Angaben",
+    "telefon": "030 30 80 66 00",
+    "email": "kontakt@shop-apotheke.com",
+    "kundenservice": "Mo. - Sa. 8-20 Uhr.",
+    "bestellservice": "24/7"
+  },
+  "saturn.de": {
+    "firma": "MediaMarktSaturn Retail Group GmbH",
+    "adresse": "Media-Saturn-Straße 1, 85053 Ingolstadt, Deutschland",
+    "ustid": "Die USt-ID variiert je nach lokaler Filiale oder den spezifischen Servicebereichen.",
+    "telefon": "0221 22 243 333",
+    "email": "Keine Angaben",
+    "kundenservice": "Mo. - Sa. 8–21 Uhr, So. und Feiertag 9–18 Uhr",
+    "bestellservice": "24/7"
+  },
+  "thalia.de": {
+    "firma": "Thalia Bücher GmbH",
+    "adresse": "An den Speichern 8, 48157 Münster, Deutschland",
+    "ustid": "Keine Angaben",
+    "telefon": "0251 530 93 30 (Allgemein) und 0251 530 94 44 (Digitales)",
+    "email": "info@thalia.de",
+    "kundenservice": "24/7 (Allgemein) und Mo. bis Fr. 9–18 Uhr, Sa. 9:30–18 Uhr (Digital)",
+    "bestellservice": "24/7"
+  },
+  "vinted.de": {
+    "firma": "Vinted, UAB",
+    "adresse": "Švitrigailos g. 13, 03228 Vilnius, Litauen",
+    "ustid": "LT100006918914",
+    "telefon": "Keine Angaben",
+    "email": "legal@vinted.de",
+    "kundenservice": "Keine Angaben",
+    "bestellservice": "Keine Angaben"
+  },
+  "zalando.de": {
+    "firma": "Zalando SE",
+    "adresse": "Valeska-Gert-Straße 5, 10243 Berlin, Deutschland",
+    "ustid": "DE260543043",
+    "telefon": "030 20 21 98 00",
+    "email": "info@zalando.de",
+    "kundenservice": "Keine Angaben",
+    "bestellservice": "Keine Angaben"
   }
 }
